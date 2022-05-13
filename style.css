@@ -34,9 +34,6 @@ body {
   #name {
       text-align: center;
   }
-  div {
-      border: 2px solid green;
-  }
   ul {
       padding-left: 50px;
       padding-top: 10px;
