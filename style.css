@@ -3,6 +3,10 @@ body {
   background-color: RGB(233, 225, 220);
 }
 
+.bold {
+  font-weight: bold;
+}
+
 header {
   width: 100%;
   background-color: rgb(187, 119, 93);
