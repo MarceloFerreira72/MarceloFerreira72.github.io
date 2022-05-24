@@ -54,10 +54,13 @@ ul {
   line-height: 25%;
   padding-bottom: 20px;
   border-bottom: 1px black solid;
+  font-size: medium;
 }
 
-h3 {
+.school-name {
   padding-top: 5px;
+  font-weight: bold;
+  font-size: large;
 }
 
 .date {
