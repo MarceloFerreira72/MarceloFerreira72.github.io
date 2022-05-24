@@ -32,6 +32,7 @@ main {
 #minha-foto {
   float: left;
   padding: 5px;
+  margin: 5px;
   background-color: white;
   height: 220px;
 }
