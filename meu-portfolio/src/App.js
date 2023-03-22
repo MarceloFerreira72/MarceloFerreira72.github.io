@@ -1,11 +1,18 @@
 import React from "react";
+import AboutMe from "./Components/AboutMe";
+import FindMe from "./Components/FindMe";
+import Projects from "./Components/Projects";
+import Stacks from "./Components/Stacks";
 
-class App extends React.Component {
-  render() {
-    return (
-      <h1>dale</h1>
-    )
-  }
+function App() {
+  return (
+    <div>
+      <AboutMe />
+      <Projects />
+      <Stacks />
+      <FindMe />
+    </div>
+  )
 }
 
 export default App;
