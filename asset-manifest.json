@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.91250af2.css",
-    "main.js": "/static/js/main.b38dcaeb.js",
+    "main.js": "/static/js/main.fd891bb0.js",
     "static/js/787.e31b216d.chunk.js": "/static/js/787.e31b216d.chunk.js",
+    "static/media/TwitchGameForRp.png": "/static/media/TwitchGameForRp.c6cb3a7f590d3e26e178.png",
     "static/media/Sorrisao.png": "/static/media/Sorrisao.c9853e69be562580924d.png",
     "index.html": "/index.html",
     "main.91250af2.css.map": "/static/css/main.91250af2.css.map",
-    "main.b38dcaeb.js.map": "/static/js/main.b38dcaeb.js.map",
+    "main.fd891bb0.js.map": "/static/js/main.fd891bb0.js.map",
     "787.e31b216d.chunk.js.map": "/static/js/787.e31b216d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91250af2.css",
-    "static/js/main.b38dcaeb.js"
+    "static/js/main.fd891bb0.js"
   ]
 }
