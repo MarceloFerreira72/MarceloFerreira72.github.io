@@ -4,7 +4,7 @@ import { Card } from "react-bootstrap";
 
 function Stacks() {
   return (
-    <div>
+    <div className="stacks-div">
       <h3>habilidades que aprendi e estudo todos os dias:</h3>
       <div className="card-group">
         {stacks.map((stack, index) => (

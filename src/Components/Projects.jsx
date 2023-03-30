@@ -28,7 +28,6 @@ function Projects() {
                 className="d-block w-100"
                 src={projeto.img}
                 alt={projeto.name}
-                height="50%"
               />
               <Carousel.Caption>
                 <h3>{projeto.name}</h3>
