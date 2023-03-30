@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import { Collapse } from "react-bootstrap";
-import Carousel from 'react-bootstrap/Carousel';
+import { Collapse, Carousel, Button } from "react-bootstrap";
 import projetos from "../Db/Projetos";
 
 function Projects() {
@@ -10,13 +9,16 @@ function Projects() {
 
   return (
     <div>
-      <button 
+      <Button
+        variant="outline-primary" 
         onClick={() => setOpen(!open)}
         aria-controls="projects-carrousel"
         aria-expanded={open}
+        className="show-hide-btn"
+        size="lg"
       >
         {open ? 'Esonder Projetos' : 'Mostrar Projetos'}
-      </button>
+      </Button>
       <Collapse in={open}>
         <div id="projects-carrousel">
           <Carousel>
