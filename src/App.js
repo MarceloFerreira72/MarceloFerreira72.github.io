@@ -7,10 +7,10 @@ import Stacks from './Components/Stacks.jsx';
 function App() {
   return (
     <div>
+      <FindMe />
       <AboutMe />
       <Projects />
       <Stacks />
-      <FindMe />
     </div>
   );
 }

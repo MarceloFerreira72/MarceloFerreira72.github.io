@@ -22,7 +22,7 @@ code {
   justify-content: space-around;
   flex-wrap: wrap;
   align-items: center;
-  margin-top: 10%;
+  margin-top: 5%;
   margin-bottom: 10%;
 }
 
@@ -33,7 +33,7 @@ code {
 }
 
 .face img {
-  max-width: 250px;
+  max-width: 300px;
 }
 
 .my-carousel-item {
@@ -59,7 +59,7 @@ code {
 }
 
 .carousel-control-next-icon, .carousel-control-prev-icon {
-  background-color: black
+  background-color: darkblue
 }
 
 .buttons-projects {
@@ -93,11 +93,7 @@ code {
   border: none !important;
 }
 
-.footer {
-  margin-top: 5%;
-}
-
-.footer p {
+.header p {
   padding: 5px;
   margin: 0;
   text-align: center;
@@ -105,12 +101,16 @@ code {
   font-weight: 700;
 }
 
-.footer-links {
+.header-links {
   display: flex;
   justify-content: center;
 }
 
-.footer a {
+.header {
+  border-bottom: 1px solid darkblue;
+}
+
+.header a {
   padding: 1%;
 }
 
