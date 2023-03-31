@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.d5733b41.css",
-    "main.js": "/static/js/main.053ac716.js",
+    "main.js": "/static/js/main.163f0cc5.js",
     "static/js/787.e31b216d.chunk.js": "/static/js/787.e31b216d.chunk.js",
     "static/media/TwitchGameForRp.png": "/static/media/TwitchGameForRp.c6cb3a7f590d3e26e178.png",
     "static/media/Sorrisao.png": "/static/media/Sorrisao.c9853e69be562580924d.png",
     "static/media/projeto-carrinho-de-compras.png": "/static/media/projeto-carrinho-de-compras.e0649ebc510eb9e673dd.png",
     "index.html": "/index.html",
     "main.d5733b41.css.map": "/static/css/main.d5733b41.css.map",
-    "main.053ac716.js.map": "/static/js/main.053ac716.js.map",
+    "main.163f0cc5.js.map": "/static/js/main.163f0cc5.js.map",
     "787.e31b216d.chunk.js.map": "/static/js/787.e31b216d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5733b41.css",
-    "static/js/main.053ac716.js"
+    "static/js/main.163f0cc5.js"
   ]
 }
