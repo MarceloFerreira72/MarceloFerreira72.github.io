@@ -35,6 +35,11 @@ code {
   max-width: 250px;
 }
 
+.easy-read {
+  background-color: black;
+  color: white;
+}
+
 .stacks-div {
   margin-top: 5%;
   background-color: darkblue;

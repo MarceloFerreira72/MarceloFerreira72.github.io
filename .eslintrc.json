@@ -17,5 +17,7 @@
         "react"
     ],
     "rules": {
+        "max-len": "off",
+        "max-lines-per-function": "off"
     }
 }
