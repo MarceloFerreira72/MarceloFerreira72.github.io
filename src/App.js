@@ -1,8 +1,8 @@
-import React from "react";
-import AboutMe from "./Components/AboutMe";
-import FindMe from "./Components/FindMe";
-import Projects from "./Components/Projects";
-import Stacks from "./Components/Stacks";
+import React from 'react';
+import AboutMe from './Components/AboutMe.jsx';
+import FindMe from './Components/FindMe.jsx';
+import Projects from './Components/Projects.jsx';
+import Stacks from './Components/Stacks.jsx';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Stacks />
       <FindMe />
     </div>
-  )
+  );
 }
 
 export default App;

@@ -19,19 +19,27 @@ function Projects() {
       </Button>
       <Collapse in={open}>
         <div id='projects-carrousel'>
-          <Carousel>
-            {projetos.map((projeto, index) => (
-              <Carousel.Item key={index}>
-              <img
-                className='d-block w-100'
-                src={projeto.img}
-                alt={projeto.name}
-              />
-              <Carousel.Caption>
-                <h3 className='easy-read'>{projeto.name}</h3>
-                <p className='easy-read'>{projeto.description}</p>
-              </Carousel.Caption>
-            </Carousel.Item>
+          <Carousel interval={ null } indicators={ false }>
+            {projetos.map(({ img, name, description, repository, page }, index) => (
+              <div key={index} className='my-carousel-item'>
+                <img
+                  className='carousel-img'
+                  src={img}
+                  alt={name}
+                />
+                <div className='carousel-infos'>
+                  <h3 className='carousel-name'>{name}</h3>
+                  <p className='carousel-description'>{description}</p>
+                  <div className='buttons-projects'>
+                    <Button variant='primary' size='lg' onClick={() => window.open(repository, '_blank')}>
+                      Repositório
+                    </Button>
+                    <Button variant='primary' size='lg' onClick={() => window.open(page, '_blank')}>
+                      Página
+                    </Button>
+                  </div>
+                </div>
+            </div>
             ))}
           </Carousel>
         </div>
