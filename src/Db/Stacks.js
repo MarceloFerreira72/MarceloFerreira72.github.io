@@ -16,6 +16,10 @@ const stacks = [
     image: 'https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png',
   },
   {
+    name: 'Python',
+    image: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png',
+  },
+  {
     name: 'HTML',
     image: 'https://cdn-icons-png.flaticon.com/512/919/919827.png',
   },
