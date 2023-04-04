@@ -2,6 +2,15 @@ import Images from '../Images/projects';
 
 const projetos = [
   {
+    img: Images.projetoSistemaSolar,
+    name: 'Projeto Sistema Solar',
+    description: `Este foi meu primeiro projeto em React na Trybe, ele é apenas visual, mas guardo ele com muito carinho!
+    Criar componentes em React é magicamente incrível, também foi meu primeiro contato com classes. Este projeto está estilizado tanto
+    para mobile quanto para PC's`,
+    repository: 'https://github.com/MarceloFerreiraTrybe23B/projeto-sistema-solar',
+    page: 'https://marceloferreiratrybe23b.github.io/projeto-sistema-solar/',
+  },
+  {
     img: Images.projetoCarrinhoDeCompras,
     name: 'Projeto Carrinho de Compras',
     description: `Este é um dos primeiros projetos que desenvolvi na Trybe, foi feito com HTML, CSS e Javascript puros, 
