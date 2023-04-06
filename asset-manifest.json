@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7ee4d4a0.css",
-    "main.js": "/static/js/main.78db4e0a.js",
+    "main.js": "/static/js/main.f1968ae1.js",
     "static/js/787.e31b216d.chunk.js": "/static/js/787.e31b216d.chunk.js",
     "static/media/TwitchGameForRp.png": "/static/media/TwitchGameForRp.c6cb3a7f590d3e26e178.png",
     "static/media/projeto-sistema-solar.png": "/static/media/projeto-sistema-solar.47062961967051f420a3.png",
@@ -9,11 +9,11 @@
     "static/media/projeto-carrinho-de-compras.png": "/static/media/projeto-carrinho-de-compras.e0649ebc510eb9e673dd.png",
     "index.html": "/index.html",
     "main.7ee4d4a0.css.map": "/static/css/main.7ee4d4a0.css.map",
-    "main.78db4e0a.js.map": "/static/js/main.78db4e0a.js.map",
+    "main.f1968ae1.js.map": "/static/js/main.f1968ae1.js.map",
     "787.e31b216d.chunk.js.map": "/static/js/787.e31b216d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ee4d4a0.css",
-    "static/js/main.78db4e0a.js"
+    "static/js/main.f1968ae1.js"
   ]
 }
