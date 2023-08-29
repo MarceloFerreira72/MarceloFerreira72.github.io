@@ -6,7 +6,7 @@ function FindMe() {
     <header className='header'>
       <p>Links:</p>
       <div className='header-links'>
-        <Link to='https://github.com/MarceloFerreiraTrybe23B' target='_blank'>
+        <Link to='https://github.com/MarceloFerreira72' target='_blank'>
           <img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github icon' width='50px' />
         </Link>
         <Link to='https://www.linkedin.com/in/devmarceloferreira/' target='_blank'>
