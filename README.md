@@ -1,4 +1,4 @@
-# Olá, este é meu porffolio pessoal, nele você encontrará:
+# Olá, este é meu porfolio pessoal, nele você encontrará:
 
 1. Todas as minhas redes
 2. Projetos que escolhi exibir
